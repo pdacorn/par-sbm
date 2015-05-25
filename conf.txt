@@ -1,0 +1,10 @@
+# define the network path
+netPath = ./sample_input.txt
+
+
+# optionally choose the number of communities: Kori (the ground truth) and Kinit (the initial setting for the algorithm)
+# Kori = 0
+# Kinit = 0
+
+
+
