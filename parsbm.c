@@ -1,3 +1,5 @@
+// This program is an implementation of the paper below.
+// Chengbin Peng, Zhihua Zhang, Ka-Chun Wong, Xiangliang Zhang, David Keyes, "A scalable community detection algorithm for large graphs using stochastic block models", Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI), Buenos Aires, Argentina, 2015.
 
 #undef __FUNCT__
 #define __FUNCT__ "main"
