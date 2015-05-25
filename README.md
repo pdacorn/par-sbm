@@ -7,7 +7,7 @@ This program is to identify non-overlapping communities for undirected networks.
 
 This program has been tested on Red Hat Enterprise Linux 6.3 with mpi-openmpi version 1.4.3 and gcc version 4.6.0. If you have found a bug or have problems, you may contact the authors in the citation below. 
 
-Citing Par-SBM: Chengbin Peng, Zhihua Zhang, Ka-Chun Wong, Xiangliang Zhang, David Keyes, "A scalable community detection algorithm for large graphs using stochastic block models", Proceedings of the 24th International Joint Conference on Artificial Intelligence (IJCAI), Buenos Aires, Argentina, 2015.
+Citing Par-SBM: Chengbin Peng, Zhihua Zhang, Ka-Chun Wong, Xiangliang Zhang, David Keyes, "A scalable community detection algorithm for large graphs using stochastic block models", Accepted by the 24th International Joint Conference on Artificial Intelligence (IJCAI), Buenos Aires, Argentina, 2015.
 
 -----------------------------------------------------------------------------
 
