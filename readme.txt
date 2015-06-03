@@ -14,7 +14,7 @@ Citing Par-SBM: Chengbin Peng, Zhihua Zhang, Ka-Chun Wong, Xiangliang Zhang, Dav
 How to Use the Code
 
 1. Prepare the data
-The graph data should be in the edge-list format (compatible with the SNAP data). In this format, the data file contains two columns of integers, and each row contains two integers representing nodes on the two ends of each edge. The node IDs should start from zero to N-1, where N is the total number of nodes, and N should not be larger than the maximum value for an "int". Edges are considered to be undirected automatically. 
+The graph data should be in the edge-list format. In this format, the data file contains two columns of integers, and each row contains two integers representing nodes on the two ends of each edge. The node IDs should start from zero to N-1, where N is the total number of nodes, and N should not be larger than the maximum value for an "int". Edges are considered to be undirected automatically. 
 
 2. Prepare conf.txt
 Text file conf.txt is a configuration file, defining several variables, one at a line. Lines starting with "#" will be ignored by the algorithm. In the configuration file, there are two mandatory variables: "netPath" is the path of the input network; and "outputPath" is the folder to store the output result. Two other variables are determined by our algorithm by default, but the user can specify them as well: "Kori" is the number of communities in the final result; "Kinit" is the number of communities in the algorithm initialization.
