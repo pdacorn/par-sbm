@@ -7,10 +7,10 @@ This program is to identify non-overlapping communities for undirected networks.
 
 A serial matlab implementation is available in the "Serial Version in Matlab" folder.
 
-Citation:
-@inproceedings{peng2015scalable,
-title={A scalable community detection algorithm for large graphs using stochastic block models},
-author={Peng, Chengbin and Zhang, Zhihua and Wong, Ka-Chun and Zhang, Xiangliang and Keyes, David},
-booktitle={Twenty-Fourth International Joint Conference on Artificial Intelligence},
-year={2015}
+Citation:<br>
+@inproceedings{peng2015scalable,<br>
+title={A scalable community detection algorithm for large graphs using stochastic block models},<br>
+author={Peng, Chengbin and Zhang, Zhihua and Wong, Ka-Chun and Zhang, Xiangliang and Keyes, David},<br>
+booktitle={Twenty-Fourth International Joint Conference on Artificial Intelligence},<br>
+year={2015}<br>
 }
