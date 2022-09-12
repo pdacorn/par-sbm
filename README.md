@@ -9,8 +9,8 @@ A serial matlab implementation is available in the "Serial Version in Matlab" fo
 
 Citation:
 @inproceedings{peng2015scalable,
-  title={A scalable community detection algorithm for large graphs using stochastic block models},
-  author={Peng, Chengbin and Zhang, Zhihua and Wong, Ka-Chun and Zhang, Xiangliang and Keyes, David},
-  booktitle={Twenty-Fourth International Joint Conference on Artificial Intelligence},
-  year={2015}
+title={A scalable community detection algorithm for large graphs using stochastic block models},
+author={Peng, Chengbin and Zhang, Zhihua and Wong, Ka-Chun and Zhang, Xiangliang and Keyes, David},
+booktitle={Twenty-Fourth International Joint Conference on Artificial Intelligence},
+year={2015}
 }
